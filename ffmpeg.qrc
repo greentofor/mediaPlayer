@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ffmpeg">
+        <file>Resources/pause.png</file>
+        <file>Resources/play.png</file>
+    </qresource>
+</RCC>

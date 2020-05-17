@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ffmpeg", "ffmpeg.vcxproj", "{41E7CA5F-7700-4B53-9929-72C7FD313508}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{931CEB35-932A-418F-95D8-4B1DB74AD827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E7CA5F-7700-4B53-9929-72C7FD313508}.Debug|x64.ActiveCfg = Debug|x64
+		{41E7CA5F-7700-4B53-9929-72C7FD313508}.Debug|x64.Build.0 = Debug|x64
+		{41E7CA5F-7700-4B53-9929-72C7FD313508}.Release|x64.ActiveCfg = Release|x64
+		{41E7CA5F-7700-4B53-9929-72C7FD313508}.Release|x64.Build.0 = Release|x64
+		{931CEB35-932A-418F-95D8-4B1DB74AD827}.Debug|x64.ActiveCfg = Debug
+		{931CEB35-932A-418F-95D8-4B1DB74AD827}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D485A9-AEA8-4041-9968-4825CDB9688F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿  Reading Qt configuration (D:\Qt\Qt5.10.0\5.10.0\msvc2017_64\bin\qmake.exe)
+  XAudioPlay.cpp
+  ffmpeg.cpp
+  main.cpp
+  media.cpp
+d:\qt\qtcode\ffmpeg\ffmpeg.cpp(261): warning C4715: “ffmpeg::eventFilter”: 不是所有的控件路径都返回值
+  moc_ffmpeg.cpp
+  ffmpeg.vcxproj -> D:\Qt\qtCode\ffmpeg\x64\Debug\ffmpeg.exe
